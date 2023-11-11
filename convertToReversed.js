@@ -15,5 +15,8 @@ function digitize(n) {
   return intArr.reverse();
 }
 
+// function digitize(n) {
+//     return String(n).split('').map(Number).reverse();
+// }
 // ex. => 35231 => [1,3,2,5,3]
 //            0 => [0]
