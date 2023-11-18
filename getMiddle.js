@@ -5,6 +5,7 @@
 let s = "middle";
 
 function getMiddle(s) {
+  // split the string into an array
   let charArr = s.split("");
 
   // empty string
