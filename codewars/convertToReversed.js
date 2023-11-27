@@ -1,5 +1,7 @@
 // Given a random non-negative number,
 // you have to return the digits of this number within an array in reverse order.
+
+// idkkkkkkkkkkk
 function digitize(n) {
   // convert the integer to a string
   let str = n.toString();
